@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Volumes/DATA/Demo/AzureSdk/imageUploadRS/app/build/intermediates/res/merged/debug/layout/activity_to_do.xml",
+        "source": "/Volumes/DATA/Demo/AzureSdk/imageUploadRS/app/src/main/res/layout/activity_to_do.xml"
+    },
+    {
+        "merged": "/Volumes/DATA/Demo/AzureSdk/imageUploadRS/app/build/intermediates/res/merged/debug/layout/row_list_to_do.xml",
+        "source": "/Volumes/DATA/Demo/AzureSdk/imageUploadRS/app/src/main/res/layout/row_list_to_do.xml"
+    }
+]
